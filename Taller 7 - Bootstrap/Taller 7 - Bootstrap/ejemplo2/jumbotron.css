@@ -1,0 +1,5 @@
+.jumbotron {
+	background-image: url("img/fondo.jpg");
+	background-size: cover;
+	height: 50vh;
+}
